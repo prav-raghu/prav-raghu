@@ -2,7 +2,6 @@
 
 ### 💻 Software Developer
 I like to over think and over engineer
----
 
 ## ⚒️ Tech stacks I work with
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
@@ -28,7 +27,7 @@ I like to over think and over engineer
 
 ## 📊 GitHub Stats
 ![Prav's GitHub Stats](https://github-readme-stats.vercel.app/api?username=prav-raghu&show_icons=true&theme=tokyonight&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=prav-raghu&layout=compact&theme=tokyonight&hide_border=true)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=prav-raghu&layout=compact&theme=tokyonight&hide_border=true)](https://your-vercel-app.vercel.app/api/top-langs?username=prav-raghu&layout=compact&theme=tokyonight&count_private=true)
 
 ---
 
