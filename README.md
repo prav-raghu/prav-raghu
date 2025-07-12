@@ -27,8 +27,8 @@ I like to over think and over engineer
 ---
 
 ## 📊 GitHub Stats
-![Prav's GitHub Stats](https://github-readme-stats.vercel.app/api?username=prav-raghu&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=prav-raghu&layout=compact&theme=radical)
+![Prav's GitHub Stats](https://github-readme-stats.vercel.app/api?username=prav-raghu&show_icons=true&theme=theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=prav-raghu&layout=compact&theme=theme=tokyonight)
 
 ---
 
