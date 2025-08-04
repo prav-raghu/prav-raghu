@@ -1,6 +1,6 @@
 # 👋 Hey there, I'm Pravir Raghu
 
-### 💻 Software Developer | Clean Code Fanatic | Overengineer Extraordinaire 😅
+### 💻 Software Developer | Clean Code Fanatic | Overengineerer
 
 > I like to overthink and overengineer — sometimes it's a bug, sometimes it's a feature.  
 
