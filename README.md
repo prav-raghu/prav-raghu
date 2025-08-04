@@ -1,4 +1,4 @@
-# 👋 Hey there, I'm Pravir Raghu
+# Pravir Raghu
 
 ### 💻 Software Developer | Clean Code Fanatic | Overengineerer
 
@@ -45,11 +45,8 @@
 
 ---
 
-## 📫 Let's Connect
+## 📫 Get in Touch
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pravir-raghu-05a88679/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pravir.raghu@hotmail.com)
 
----
-
-_Thanks for dropping by — feel free to star something or fork something
