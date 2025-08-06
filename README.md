@@ -40,6 +40,8 @@
 
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=prav-raghu&layout=compact&theme=tokyonight&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
+![Profile views](https://komarev.com/ghpvc/?username=prav-raghu&color=blueviolet)
+
 ---
 
 ## 🔥 Streaks
