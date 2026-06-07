@@ -4,6 +4,13 @@
 ### 💻 Software Developer | Clean Code Fanatic | Overengineerer
 > Obsessed with clean, production-ready code — if it can't scale, it doesn't ship.
 
+## 🤓 About Me
+- 🎯 Obsessed with performance, clean code, and developer happiness
+- 🚀 Always chasing the high of mastering new stacks and tech
+- 🧱 Big believer in solid foundations over hype
+- 🛠️ Constantly building tools to make dev workflows better (or at least weirder 😄)
+- 🇿🇦 Durban boy building real systems for real SA problems
+
 ![Profile views](https://komarev.com/ghpvc/?username=prav-raghu&color=7c3aed&style=flat)
 
 ---
@@ -78,23 +85,6 @@
 ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 ![TimescaleDB](https://img.shields.io/badge/TimescaleDB-FDB515?style=for-the-badge&logo=timescale&logoColor=black)
-
----
-
-## 📌 Featured Projects
-
-[![drams-research](https://github-readme-stats.vercel.app/api/pin/?username=prav-raghu&repo=drams-research&theme=tokyonight&hide_border=true)](https://github.com/prav-raghu/drams-research)
-[![node-mono-repo-template](https://github-readme-stats.vercel.app/api/pin/?username=prav-raghu&repo=node-mono-repo-template&theme=tokyonight&hide_border=true)](https://github.com/prav-raghu/node-mono-repo-template)
-
----
-
-## 🤓 About Me
-- 🎯 Obsessed with performance, clean code, and developer happiness
-- 🚀 Always chasing the high of mastering new stacks and tech
-- 🧱 Big believer in solid foundations over hype
-- 🛠️ Constantly building tools to make dev workflows better (or at least weirder 😄)
-- 🎓 Master's candidate researching driver behaviour analytics — DRAMS project
-- 🇿🇦 Durban boy building real systems for real SA problems
 
 ---
 
