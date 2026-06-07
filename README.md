@@ -1,6 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=7C3AED&center=true&vCenter=true&width=700&lines=Software+Developer+%7C+Architect;TypeScript+%7C+Node.js+%7C+Fastify;Clean+Code+%7C+Overengineering+Enthusiast+%F0%9F%98%84;%F0%9F%87%BF%F0%9F%87%A6+Durban%2C+KZN+%E2%80%94+Building+for+SA+%26+beyond)](https://git.io/typing-svg)
-
-# 👋 Pravir Raghu
+# Pravir Raghu
 ### 💻 Software Developer | Clean Code Fanatic | Overengineerer
 > Obsessed with clean, production-ready code — if it can't scale, it doesn't ship.
 
@@ -45,8 +43,6 @@
 ---
 
 ## ⏱️ WakaTime Stats
-> ⚠️ Requires [WakaTime](https://wakatime.com) setup — see instructions below
-
 [![Prav's WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=prav-raghu&theme=tokyonight&hide_border=true&layout=compact)](https://wakatime.com/@prav-raghu)
 
 ---
@@ -99,35 +95,3 @@
 ![GitHub Snake Dark](https://github.com/platane/snk/raw/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
 
 ---
-
-<!--
-  ============================================================
-  ⏱️ WAKATIME SETUP (5 minutes)
-  ============================================================
-  1. Sign up free at https://wakatime.com
-  2. Install the WakaTime extension in VS Code
-     (search "WakaTime" in Extensions)
-  3. Paste your API key when prompted
-  4. In your prav-raghu/prav-raghu GitHub repo:
-     - Go to Settings > Secrets > Actions
-     - Add secret: WAKATIME_API_KEY = <your key>
-  5. Create .github/workflows/waka.yml with:
-
-  name: Waka Readme
-  on:
-    schedule:
-      - cron: '0 0 * * *'
-    workflow_dispatch:
-  jobs:
-    update-readme:
-      name: Update WakaTime Stats
-      runs-on: ubuntu-latest
-      steps:
-        - uses: anmol098/waka-readme-stats@master
-          with:
-            WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
-            GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-
-  That's it — stats update daily automatically! 🚀
-  ============================================================
--->
