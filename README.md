@@ -2,15 +2,16 @@
 
 # 👋 Pravir Raghu
 ### 💻 Software Developer | Clean Code Fanatic | Overengineerer
-> I like to overthink and overengineer — sometimes it's a bug, sometimes it's a feature.
+> Obsessed with clean, production-ready code — if it can't scale, it doesn't ship.
 
 ![Profile views](https://komarev.com/ghpvc/?username=prav-raghu&color=7c3aed&style=flat)
 
 ---
 
 ## 🌍 Currently Building
-- 🎓 **DRAMS** — Driver Rage Analytics & Mitigation System *(Master's thesis — Fastify, TimescaleDB, BullMQ, YOLOv8)*
+- 🎓 **DRAMS** — Driver Rage Analytics & Mitigation System *(Master's thesis — Fastify, TimescaleDB, BullMQ, YOLOv8)* 
 - 🧱 **node-mono-repo-template** — Fastify + React monorepo foundation • pnpm + Turborepo • TypeScript strict
+- 🧱 **project-olympus-mono-repo** — Nest.JS + Angular monorepo foundation • pnpm + Turborepo • TypeScript support
 - 🇿🇦 Based in Durban, KZN — building real systems for real SA problems
 
 ---
