@@ -42,11 +42,6 @@
 
 ---
 
-## ⏱️ WakaTime Stats
-[![Prav's WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=prav-raghu&theme=tokyonight&hide_border=true&layout=compact)](https://wakatime.com/@prav-raghu)
-
----
-
 ## ⚒️ Programming Languages
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178c6?style=for-the-badge&logo=typescript&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
