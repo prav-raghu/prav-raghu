@@ -6,6 +6,14 @@
 
 ---
 
+## 🤓 About Me
+
+- 🎯 Obsessed with performance, clean code, and developer happiness
+- 🚀 Always chasing the high of mastering new stacks and tech
+- 🧱 Big believer in solid foundations over hype
+- 🛠️ Constantly building tools to make dev workflows better (or at least weirder 😄)
+---
+
 ## ⚒️ Programming Languages
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -52,18 +60,14 @@
 
 ---
 
-## 🔥 Streaks
-
-![GitHub Streak](https://streak-stats.demolab.com?user=prav-raghu&theme=tokyonight&hide_border=true)
+## 🏆Achievements
+[![trophy](https://github-profile-trophy.vercel.app/?username=prav-raghu&theme=tokyonight&no-frame=true&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)
 
 ---
 
-## 🤓 About Me
+## 🔥 Streaks
 
-- 🎯 Obsessed with performance, clean code, and developer happiness
-- 🚀 Always chasing the high of mastering new stacks and tech
-- 🧱 Big believer in solid foundations over hype
-- 🛠️ Constantly building tools to make dev workflows better (or at least weirder 😄)
+![GitHub Streak](https://streak-stats.demolab.com?user=prav-raghu&theme=tokyonight&hide_border=true)
 
 ---
 
