@@ -16,7 +16,8 @@
 ## 🌍 Currently Building
 - 🎓 **DRAMS** — Driver Rage Analytics & Mitigation System *(Master's thesis — Fastify, TimescaleDB, BullMQ, YOLOv8)* 
 - 🧱 **node-mono-repo-template** — Fastify + React monorepo foundation • pnpm + Turborepo • TypeScript strict
-- 🧱 **project-olympus-mono-repo** — Nest.JS + Angular monorepo foundation • pnpm + Turborepo • TypeScript support
+- 🏗️ **project-olympus-mono-repo** — Nest.JS + Angular monorepo foundation • pnpm + Turborepo • TypeScript support
+- 🐭 **project-gaia-mono-repo** — GO + React front end monorepo foundation • pnpm + Turborepo
 - 🇿🇦 Based in Durban, KZN — building real systems for real SA problems
 
 ---
