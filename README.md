@@ -7,7 +7,6 @@
 - 🚀 Always chasing the high of mastering new stacks and tech
 - 🧱 Big believer in solid foundations over hype
 - 🛠️ Constantly building tools to make dev workflows better (or at least weirder 😄)
-- 🇿🇦 Durban boy building real systems for real SA problems
 
 ![Profile views](https://komarev.com/ghpvc/?username=prav-raghu&color=7c3aed&style=flat)
 
@@ -18,7 +17,6 @@
 - 🧱 **node-mono-repo-template** — Fastify + React monorepo foundation • pnpm + Turborepo • TypeScript strict
 - 🏗️ **project-olympus-mono-repo** — Nest.JS + Angular monorepo foundation • pnpm + Turborepo • TypeScript support
 - 🐭 **project-gaia-mono-repo** — GO + React front end monorepo foundation • pnpm + Turborepo
-- 🇿🇦 Based in Durban, KZN — building real systems for real SA problems
 
 ---
 
