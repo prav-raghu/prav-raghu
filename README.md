@@ -27,8 +27,6 @@
 
 ## 📊 GitHub Stats
 ![Prav's GitHub stats](https://github-stats-extended.vercel.app/api?username=prav-raghu)]
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=prav-raghu&layout=compact&theme=tokyonight&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
-
 
 ---
 
