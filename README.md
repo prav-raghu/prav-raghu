@@ -21,12 +21,12 @@
 ---
 
 ## 🏆 GitHub Trophies
-[![trophy](https://trophygithubreadmelang.cybee.dpdns.org/?username=prav-raghu&theme=dark)
+![trophy](https://trophygithubreadmelang.cybee.dpdns.org/?username=prav-raghu&theme=dark)
 
 ---
 
 ## 📊 GitHub Stats
-[![Prav's GitHub stats](https://github-stats-extended.vercel.app/api?username=prav-raghu)](https://github.com/stats-organization/github-stats-extended]
+![Prav's GitHub stats](https://github-stats-extended.vercel.app/api?username=prav-raghu)]
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=prav-raghu&layout=compact&theme=tokyonight&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
 
