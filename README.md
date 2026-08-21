@@ -21,7 +21,7 @@
 ---
 
 ## 🏆 GitHub Trophies
-[![trophy]([https://github-profile-trophy.vercel.app/?username=prav-raghu)](https://github.com/ryo-ma/github-profile-trophy](https://trophygithubreadmelang.cybee.dpdns.org/?username=prav-raghu&theme=light))
+[![trophy](https://trophygithubreadmelang.cybee.dpdns.org/?username=prav-raghu&theme=dark)
 
 ---
 
