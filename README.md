@@ -15,9 +15,10 @@
 ## 🌍 Currently Building
 - 🎓 **DRAMS** — Driver Rage Analytics & Mitigation System *(Proposed Master's thesis 1— Fastify, TimescaleDB, BullMQ, YOLOv8)*  (part of venta system private)
 - 🧠 **noggin-accessibility-browser** — An AI-mediated accessibility browser that turns neural intent into safe, autonomous web actions. *(Proposed Master's thesis 1 — Chromium, BCI, Fastify, TimescaleDB, BullMQ, YOLOv8)* 
-- 🧱 **node-mono-repo-template** — Fastify + React monorepo foundation • pnpm + Turborepo • TypeScript strict (private repo)
 - 🏗️ **project-olympus-mono-repo** — Nest.JS + Angular monorepo foundation • pnpm + Turborepo • TypeScript support
 - 🐭 **project-go-mono-repo** — GO + React front end monorepo foundation • pnpm + Turborepo (private)
+- 🟩 **vuqi-digital-signage** - GO + Vue JS (private)
+- 🤖 **thola-ai-job-finder** - Python + SvelteKit (private)
 
 ---
 
